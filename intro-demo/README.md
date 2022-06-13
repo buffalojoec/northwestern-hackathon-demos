@@ -1,5 +1,7 @@
 # Intro Demo
 
+[Solana Cookbook](https://solanacookbook.com/#contributing)
+
 We're going to use Anchor to create a simple Solana program & client.
 
 ### Setup
