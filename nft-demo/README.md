@@ -50,3 +50,8 @@ anchor build
 anchor deploy
 anchor run test
 ```
+
+## About NFTs
+
+![](nfts_overview.jpg)
+![](nfts_breakdown.jpg)

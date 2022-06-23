@@ -35,3 +35,9 @@ npm i
 bash build.sh
 npm run app
 ```
+
+
+## About NFTs
+
+![](nfts_overview.jpg)
+![](nfts_breakdown.jpg)
