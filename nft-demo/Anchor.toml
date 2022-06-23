@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.devnet]
+nft_demo = "i25WSpXBBR8uk2YohMHVjkG67JuM8KEY7fZiTeLNrxQ"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "./wallet/keypair.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
